@@ -44,7 +44,6 @@
         * Mysql
         * MongoDB
         * ElasticSearch
-        * Solr
         * AWS RDS, S3
     * 서버 및 호스팅
         * AWS EC2
